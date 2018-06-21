@@ -2,7 +2,7 @@
 layout: post
 title: House of Mutants
 ---
-This animated show is about a young mutant named Arizona who is staying in a house with other mutants after she was shot at by the Hellfire Gang. Arizona is planning to kill the Hellfire Gang and get her kidnapped mother back, but with the help of her new friends, she will defeat the Hellfire Gang and be with her mom again.
+This animated series is about a young mutant named Arizona who is staying in a house with other mutants after she was shot at by the Hellfire Gang. Arizona is planning to kill the Hellfire Gang and get her kidnapped mother back, but with the help of her new friends, she will defeat the Hellfire Gang and be with her mom again.
 ---
 Characters:
    
