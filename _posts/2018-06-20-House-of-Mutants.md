@@ -2,7 +2,7 @@
 layout: post
 title: MUTANTS
 ---
-This animated series is about a young mutant named Arizona who is staying in a house with other mutants after she was shot at by the Hellfire Gang leader. , but with the help of her new friends, she will defeat the Hellfire Gang and be with her mom again as her and the others develop new powers.
+MUTANTS is a animated series is about a young mutant named Arizona who is staying in a house with other mutants after she was  as her and the others develop new powers.
 ---
 Characters:
    
