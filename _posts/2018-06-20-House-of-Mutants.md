@@ -2,7 +2,7 @@
 layout: post
 title: MUTANTS
 ---
-MUTANTS is a animated series is about a young mutant named Arizona who is staying in a house with other mutants after she was being chased by Dr.Ruins'razors then was shot with tranquilizer then fell off a cliff. The rest of the mutants are familiar with Dr.Ruins and help Arizona find Ruins and kill him, but little did they know that Dr. Ruins send his razor men and hired a gang called the Hellfire gang to find her. While Her and the others discover more new powers and abilities, they will come up against razors from left to right, a rowdy and tough gang, and a new enemy will appear.
+MUTANTS is a animated series is about a young mutant named Arizona who is staying with five other mutants after she was being chased by Dr.Ruins'razors then was shot with tranquilizer then fell off a cliff. The rest of the mutants are familiar with Dr.Ruins and help Arizona find Ruins and kill him, but little did they know that Dr. Ruins send his razor men and hired a gang called the Hellfire gang to find her. While Her and the others discover more new powers and abilities, they will come up against razors from left to right, a rowdy and tough gang, and a new enemy will appear.
 ---
 Characters:
    
